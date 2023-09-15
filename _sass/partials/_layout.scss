@@ -248,6 +248,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  border-top: 1px solid $grey-color-light;
 
   h2 {
     @include relative-font-size(2);
