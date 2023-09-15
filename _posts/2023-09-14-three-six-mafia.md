@@ -3,4 +3,6 @@ layout: post
 title: "Three Six Mafia"
 ---
 
-### Coming Soon
+
+<br/>
+<p style="text-align:center;">- Coming Soon -</p>
